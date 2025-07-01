@@ -1,5 +1,8 @@
 # rest-book
 
+This project was made with the purpose of learning the basics of Quarkus, using the course made by Antonio Goncalves.
+links for the course: https://www.udemy.com/course/quarkus-starting-with-quarkus
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
